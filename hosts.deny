@@ -1,3 +1,4 @@
+ALL: Binary
 ALL: rpcbind:
 ALL: 1.161.16.136
 ALL: 1.161.16.243
